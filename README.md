@@ -1,4 +1,4 @@
-<h1 align="center">Cloud Removal with GAN - Satellite Image Processing</h1>
+<h1 align="center">Cloud and Fog removal from Satellite Images using Generative Adversarial Netrowks (GANs)</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54114888/126111452-2023cf52-d7bb-4eab-aab4-42f4d583e3f5.png" width="" height="">
