@@ -33,6 +33,9 @@ Developed an AI System based on Generative Adversarial Networks (GANs) to predic
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54114888/143440898-9461edd7-cd26-4d3e-9258-9b27d8ca44d0.png" width="650" height="">
 </p>
+  
+## 📜 Research Paper published:
+https://hal.archives-ouvertes.fr/hal-03462652  
 
 ## 📜 Internship Final Report link:
 https://drive.google.com/file/d/1huYYi0UTJC2ODtjjyxIQqs8vwjzXRDTL/view?usp=sharing
