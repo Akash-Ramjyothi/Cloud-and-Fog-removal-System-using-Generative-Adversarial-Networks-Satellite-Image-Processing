@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-Developed an AI System based on Generative Adversarial Networks (GANs) to predict and remove the Clouds and Fog from an Image captured from Satellite. Gets input of a Satellite Image with Clouds and outputs a predicted landscape without clouds. Demo prototype for my internship at Indian Space Research Organization (ISRO)'s Hyderabad campus National Remote Sensing Centre (NRSC). Actual project has been configured and tested through Bhuvan.
+Optimized ISRO's pre-existing computer vision models to remove clouds and fog from satellite images. Achieved 84% accuracy, enhancing image clarity. Configured and tested the system through Bhuvan during my internship at ISRO's NRSC, Hyderabad.
 
 # Sample Demo:
 ## Demo 1:
@@ -29,9 +29,9 @@ Developed an AI System based on Generative Adversarial Networks (GANs) to predic
   ☎️ PH:+91 8939928002.
 </p>
 
-## 📃 ISRO Internship Certificate:
+<!-- ## 📃 ISRO Internship Certificate: -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54114888/143440898-9461edd7-cd26-4d3e-9258-9b27d8ca44d0.png" width="650" height="">
+<!-- <img src="https://user-images.githubusercontent.com/54114888/143440898-9461edd7-cd26-4d3e-9258-9b27d8ca44d0.png" width="650" height=""> -->
 </p>
   
 ## 📜 Research Paper published:
