@@ -39,6 +39,27 @@ https://hal.archives-ouvertes.fr/hal-03462652
 
 ## 📜 Internship Final Report link:
 https://drive.google.com/file/d/1huYYi0UTJC2ODtjjyxIQqs8vwjzXRDTL/view?usp=sharing
+## 🛠 Recommended Environment
+
+The repository was tested/recommended with the following environment:
+
+* Python 3.7
+* PyTorch 1.7.1
+* torchvision 0.8.2
+
+Some dependencies rely on older APIs and may not work correctly on newer Python/PyTorch versions without additional modifications.
+
+---
+
+## 📦 Installation
+
+```bash id="j9m88y"
+python3.7 -m venv cloudgan
+source cloudgan/bin/activate
+
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 ## 💥 How to Contribute?
 
