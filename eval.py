@@ -1,8 +1,6 @@
 import numpy as np
-from skimage.measure import compare_ssim as SSIM
-
+from skimage.metrics import structural_similarity as SSIM
 from torch.autograd import Variable
-
 from utils import save_image
 
 
