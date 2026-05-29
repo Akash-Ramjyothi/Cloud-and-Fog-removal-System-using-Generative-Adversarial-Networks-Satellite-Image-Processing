@@ -1,0 +1,10 @@
+torch==1.7.1
+torchvision==0.8.2
+numpy==1.19.5
+opencv-python==4.5.5.64
+matplotlib==3.3.4
+scikit-image==0.17.2
+PyYAML==5.4.1
+tqdm==4.64.1
+attrdict==2.0.1
+pillow==8.4.0
